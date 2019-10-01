@@ -1,4 +1,4 @@
-# Software-for-Crime-Analysis
+# Software for Crime Analysis
 A software which uses Boston crime dataset.
 
 This project makes possible users to gain many information using a created dataset using boston crime dataset. 
