@@ -11,15 +11,17 @@ Users may filter the dataset or make analysis without filtering. For example, us
 
 <b>What kind of information may be gained?</b>
 
-Occurrence frequency of a specific crime such as harassment in different locations can be learned.
+1) Occurrence frequency of a specific crime such as harassment in different locations can be learned.
 
-Occurrence frequency of different crimes in a specific location can be learned.
+2) Occurrence frequency of different crimes in a specific location can be learned.
 
-Relationship of crime and crime date and time can be seen.
+3) Relationship of crime and crime date and time can be seen.
 
-The most dangerous times of a specific day of the week such as Saturday or Friday can be learned.
+4) The most dangerous times of a specific day of the week such as Saturday or Friday can be learned.
 
-A lot of other information can be extracted from dataset using this software.
+5) A lot of other information can be extracted from dataset using this software.
+
+<b>Using other datasets</b>
 
 This software can be used another crime dataset if desired dataset is in same data format 
 and it can be converted to true format after a short pre processing. 
