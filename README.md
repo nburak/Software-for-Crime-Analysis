@@ -9,7 +9,8 @@ These records include many variables such as group, description, date, year, mon
 It provides an interface to users and makes possible users to filter the dataset that will be used for analysis with desired parameters.
 Users may filter the dataset or make analysis without filtering. For example, user may search the mostly frequent crime on saturday or entire week.
 
-<img src="https://github.com/nburak/Software-for-Crime-Analysis/blob/master/screenshot.png?raw=true" width="300px" height="auto"></img>
+<img src="https://github.com/nburak/Software-for-Crime-Analysis/blob/master/screenshot.png?raw=true" width="500px" height="auto"></img>
+
 <b>What kind of information may be gained?</b>
 
 1) Occurrence frequency of a specific crime such as harassment in different locations can be learned.
